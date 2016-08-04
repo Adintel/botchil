@@ -3,7 +3,7 @@
     "HELLO": "Hey, I'm so glad you set Botchil up! Do you want to tell Momtchil that you're talking to his bot? %[Tell him](postback:twitter)",
     "TELL HER": "Let's tweet @ Momtchil so he knows you're interested in talking to him. Here's a tweet that's ready to go: %[Tweet Momtchil](http://bit.ly/botchil-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
-    "hello": "Hi"
-    "CONNECT ME": "",
+    "hello": "Hi",
+    "CONNECT ME": "boo",
     "DISCONNECT": "Roger that, Botchil is back."
 }
